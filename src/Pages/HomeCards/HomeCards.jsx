@@ -15,7 +15,7 @@ const HomeCards = ({ course }) => {
     lessonsCount = "17 Lessons",
     duration = "2 hours 16 mins",
     commentsCount = "59 Comments",
-    enrolledUsers = [], // for count dynamic
+    enrolledUsers = [],
   } = course;
 
   return (
@@ -52,7 +52,10 @@ const HomeCards = ({ course }) => {
         </div>
 
         <p className="text-sm text-gray-500">
-          by <span className="text-blue-600 font-normal text-sm">{companyName}</span>
+          by{" "}
+          <span className="text-blue-600 font-normal text-sm">
+            {companyName}
+          </span>
         </p>
       </div>
 
@@ -65,7 +68,6 @@ const HomeCards = ({ course }) => {
 
         {/* User Avatars Overlap Section */}
         <div className="flex items-center -space-x-2 overflow-hidden mr-18">
-          {/* Static design example if dynamic avatar array unavailable */}
           <img
             className="inline-block h-8 w-8 rounded-full ring-2 ring-white object-cover"
             src="https://i.pravatar.cc/100?img=1"

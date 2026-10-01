@@ -80,15 +80,6 @@ const Navbar = () => {
           </a>
         </div>
       </div>
-
-      {/* <section className="relative overflow-hidden">
-        <Banner> </Banner>
-
-        <div className="relative overflow-hidden ">
-          <img className="w-fit h-84 mt-13 mx-auto" src={Ellipse} alt="" />
-          <img className="w-fit h-106 -mt-106  mx-auto" src={imgPng} alt="" />
-        </div>
-      </section> */}
     </div>
   );
 };

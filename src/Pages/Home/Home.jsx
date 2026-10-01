@@ -43,15 +43,6 @@ const Home = () => {
         style={{ backgroundImage: `url(${bgImg})` }}
       >
         <Banner></Banner>
-
-        {/* <div className="relative overflow-hidden  w-90 md:w-fit items-center mx-auto ">
-          <img className="w-fit h-84 mt-13 mx-auto" src={Ellipse001} alt="" />
-          <img
-            className="w-100 h-fit md:w-fit md:h-106 -mt-106 mx-auto"
-            src={imgPng}
-            alt=""
-          />
-        </div> */}
       </section>
 
       <div className="bg-[#F5F5F6] py-8 px-4 sm:px-8 md:px-16 lg:px-32 flex flex-wrap items-center justify-center sm:justify-between gap-6 min-h-[120px] md:min-h-[202px]">
