@@ -19,7 +19,7 @@ const HomeCards = ({ course }) => {
   } = course;
 
   return (
-    <div className="card w-full border border-gray-200 shadow-md hover:shadow-xl transition-shadow p-4 rounded-3xl bg-white">
+    <div className="card w-full border border-gray-200 shadow-md hover:shadow-xl transition-shadow p-4 rounded-3xl bg-white border">
       {/* Image with badges overlay */}
       <div className="relative w-full h-48 rounded-2xl overflow-hidden">
         <img
