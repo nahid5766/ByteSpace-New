@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Figma from Basic",
+    "companyName": "purepearl studio",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPrtZkpIOJiZ2g4Kz2wBVy4NykeV_kDsO3s0T7Gynsvvxihpcl7KTfTeu&s=10",
+    "description": "Embark on an enlightening exploration into the world of digital creation with our comprehensive course, \"Build Digital Assets: A Comprehensive Guide.\" This transformative learning experience invites you to delve deep into the intricacies of crafting impactful digital content. From laying the groundwork with foundational concepts to mastering advanced techniques, this guide is meticulously curated to empower you with the skills essential for navigating the dynamic landscape of digital asset creation.\n\nIn the initial modules, you'll establish a solid foundation by immersing yourself in the foundational concepts that form the backbone of digital asset creation. Understand the fundamental elements that constitute compelling digital content and gain proficiency in leveraging these elements to communicate effectively in the digital realm.\n\nAs you progress through the course, you'll ascend to higher levels of expertise, delving into the nuances of design principles that drive impactful creations. Uncover the secrets behind effective visual communication, exploring color theory, typography, and layout strategies that elevate your digital assets to new heights. Engage in hands-on exercises that reinforce your understanding, allowing you to apply these principles in practical scenarios.",
+    "reviews": 4.3,
+    "ratingAvg": "26+",
+    "totalPrice": "$25",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=1" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=2" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=3" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=4" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Full-Stack Web Development Bootcamp",
+    "companyName": "CodeCraft Academy",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+    "description": "Master the core principles of modern full-stack web development. Learn React, Node.js, Express, and MongoDB through real-world portfolio projects.\n\nThis course takes you from writing basic HTML, CSS, and JavaScript to deploying scalable web applications on modern cloud infrastructure. Ideal for beginners aiming for full-stack developer roles.",
+    "reviews": 4.8,
+    "ratingAvg": "42+",
+    "totalPrice": "$49",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=5" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=6" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=7" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=8" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science and Machine Learning",
+    "companyName": "DataMinds Institute",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+    "description": "Unlock the power of Python to analyze data, build predictive machine learning models, and create interactive data visualizations using Pandas, NumPy, and Scikit-Learn.\n\nDesigned for students and professionals looking to transition into data engineering, analytics, and AI development with hands-on practice.",
+    "reviews": 4.9,
+    "ratingAvg": "58+",
+    "totalPrice": "$35",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=9" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=10" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=11" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=12" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design Essentials Masterclass",
+    "companyName": "Creative Hub Studio",
+    "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=800&q=80",
+    "description": "Learn modern user experience (UX) and user interface (UI) design principles. Build high-converting user flows, wireframes, and interactive prototypes using industry standards.\n\nGain practical insight into usability testing, user research methodology, accessibility standards, and design system creation.",
+    "reviews": 4.6,
+    "ratingAvg": "34+",
+    "totalPrice": "$30",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=13" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=14" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=15" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=16" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Strategy & SEO Mastery",
+    "companyName": "Growth Matrix Media",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+    "description": "Accelerate business growth with step-by-step search engine optimization (SEO), social media marketing strategies, content creation, and pay-per-click ad management.\n\nFormulate data-driven marketing campaigns, perform competitive keyword research, and optimize conversion funnels for higher organic traffic.",
+    "reviews": 4.4,
+    "ratingAvg": "19+",
+    "totalPrice": "$20",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=17" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=18" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=19" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=20" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Advanced Graphic Design & Branding",
+    "companyName": "Pixel Works",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=800&q=80",
+    "description": "Elevate your visual communication techniques. Master Adobe Illustrator, Photoshop, and InDesign to design brand identities, logo systems, and marketing collateral.\n\nDevelop an eye for typography balance, layout grid setups, color psychology, and professional export workflow for print and web.",
+    "reviews": 4.7,
+    "ratingAvg": "31+",
+    "totalPrice": "$40",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=21" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=22" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=23" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=24" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Fundamentals & Ethical Hacking",
+    "companyName": "Secure Shield Labs",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "description": "Protect web infrastructure and networks from cyber threats. Understand network protocols, vulnerability assessments, penetration testing, and risk mitigation.\n\nExplore defensive and offensive security strategies in virtual laboratory environments guided by certified security specialists.",
+    "reviews": 4.8,
+    "ratingAvg": "50+",
+    "totalPrice": "$55",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=25" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=26" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=27" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=28" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Development with Flutter & Dart",
+    "companyName": "Appify Tech",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+    "description": "Build high-performance, cross-platform iOS and Android apps using Google's Flutter framework and Dart language from a single codebase.\n\nCovers state management strategies, REST API integrations, native device feature access, and App Store deployment procedures.",
+    "reviews": 4.5,
+    "ratingAvg": "22+",
+    "totalPrice": "$38",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=29" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=30" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=31" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=32" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Cloud Computing Essentials with AWS",
+    "companyName": "CloudOps Training",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+    "description": "Understand core AWS services including EC2, S3, Lambda, and RDS. Learn cloud architecture patterns, security compliance, and serverless application hosting.\n\nPrepares you thoroughly for cloud practitioner and solutions architect certification exams with practical labs.",
+    "reviews": 4.9,
+    "ratingAvg": "64+",
+    "totalPrice": "$60",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=33" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=34" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=35" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=36" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Video Editing & Motion Graphics in After Effects",
+    "companyName": "FrameByFrame Media",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+    "description": "Craft visual storytelling through Adobe Premiere Pro and After Effects. Master video cuts, color grading, visual effects (VFX), and animated graphics.\n\nDesigned for content creators, marketers, and filmmakers aiming to produce agency-quality video content.",
+    "reviews": 4.6,
+    "ratingAvg": "28+",
+    "totalPrice": "$32",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=37" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=38" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=39" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=40" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "3D Modeling and Animation in Blender",
+    "companyName": "Vortex 3D Studio",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "description": "Dive into 3D asset creation, sculpting, UV unwrapping, texturing, rigging, and photorealistic rendering using Blender's open-source toolset.\n\nBuild detailed low-poly and high-poly assets suitable for video games, architectural visualization, and product rendering.",
+    "reviews": 4.2,
+    "ratingAvg": "15+",
+    "totalPrice": "$28",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=41" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=42" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=43" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=44" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Copywriting & Content Strategy for Conversions",
+    "companyName": "WordSmith Academy",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80",
+    "description": "Write persuasive sales copy, high-converting landing pages, email nurture sequences, and compelling brand narratives that drive user action.\n\nLearn consumer psychology, headline writing techniques, audience research, and brand tone guidelines.",
+    "reviews": 4.7,
+    "ratingAvg": "37+",
+    "totalPrice": "$22",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=45" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=46" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=47" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=48" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "DevOps Engineering and CI/CD Pipelines",
+    "companyName": "StackDeploy Institute",
+    "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Automate software delivery pipelines using Docker, Kubernetes, Jenkins, Terraform, and Git-based workflows for enterprise scale.\n\nLearn container orchestration, infrastructure as code (IaC), continuous integration/deployment, and cloud monitoring.",
+    "reviews": 4.8,
+    "ratingAvg": "45+",
+    "totalPrice": "$50",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=49" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=50" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=51" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=52" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Agile Product Management & Scrum Leadership",
+    "companyName": "Agile Leadership Lab",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=800&q=80",
+    "description": "Lead cross-functional product development teams using Scrum frameworks, backlog prioritization, user story mapping, and product analytics.\n\nTransform business vision into actionable product roadmaps, facilitate sprint planning, and streamline team efficiency.",
+    "reviews": 4.5,
+    "ratingAvg": "20+",
+    "totalPrice": "$35",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=53" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=54" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=55" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=56" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Artificial Intelligence & Prompt Engineering",
+    "companyName": "NextGen AI Academy",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+    "description": "Harness generative AI models, Large Language Models (LLMs), and prompt techniques to automate workflows and build custom AI-powered applications.\n\nUnderstand fine-tuning strategies, API integrations, and ethical considerations surrounding modern AI implementation.",
+    "reviews": 4.9,
+    "ratingAvg": "71+",
+    "totalPrice": "$42",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=57" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=58" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=59" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=60" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Financial Modeling and Business Analytics",
+    "companyName": "Capital Insight",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=800&q=80",
+    "description": "Build robust dynamic financial models using Microsoft Excel. Master valuation techniques, forecasting methods, scenario analysis, and dash-boarding.\n\nEssential for corporate finance professionals, startup founders, and business analysts making data-driven decisions.",
+    "reviews": 4.3,
+    "ratingAvg": "18+",
+    "totalPrice": "$29",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=61" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=62" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=63" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=64" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Public Speaking & Executive Communication",
+    "companyName": "SpeakUp Institute",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=800&q=80",
+    "description": "Overcome stage anxiety, deliver persuasive keynote presentations, and communicate effectively in high-stakes corporate environments.\n\nRefine voice modulation, body language, narrative structuring, and audience engagement techniques.",
+    "reviews": 4.6,
+    "ratingAvg": "25+",
+    "totalPrice": "$24",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=65" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=66" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=67" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=68" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Game Development with Unity and C#",
+    "companyName": "GameCraft Forge",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "description": "Create 2D and 3D games using Unity game engine and C# programming. Learn game physics, animation controllers, UI systems, and sound effects.\n\nGuide through building and publishing functional game projects across PC and mobile platforms.",
+    "reviews": 4.7,
+    "ratingAvg": "39+",
+    "totalPrice": "$45",
+    "ratings": [
+      { "reviewsImg": "https://i.pravatar.cc/100?img=69" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=70" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=71" },
+      { "reviewsImg": "https://i.pravatar.cc/100?img=72" }
+    ]
+  }
+]
